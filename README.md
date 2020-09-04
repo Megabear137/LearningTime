@@ -1,2 +1,2 @@
 # LearningTime
-Time to learn
+Time to learn.
